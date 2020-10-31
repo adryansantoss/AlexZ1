@@ -238,7 +238,7 @@ p,textarea{
     }
     .sobre .sobre-mim-bloco p{
         text-align: center;
-        width: 100%;
+        width: calc(100% - 45px);
         padding: 0 0 50px 0;
         color: #323232;
     }
