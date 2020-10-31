@@ -249,10 +249,21 @@ p,textarea{
         width: 100%;
         height: 550px;
     }
-    .contact-form{
-        width: 100%;
+    .contact .contact-form input{
+        width: 300px;
+        padding: 10px;
     }
-    .contact-form input{
-        width: 100%;
+    .contact .contact-form textarea{
+        width: 300px;
+        height: 150px;
+        max-width: 300px;
+        min-width: 300px;
+        max-height: 150px;
+        min-height: 150px;
+        padding: 10px;
     }
+    .contact .contact-form .contact-ns{
+        width: 115px;
+    }
+
 }
