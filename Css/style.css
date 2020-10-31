@@ -20,6 +20,7 @@ p,textarea{
     display: flex;
     justify-content: space-between;
     height: 84px;
+    width: 100%;
     padding: 0 2%;
     align-items: center;
     background-color: rgba(69, 69, 69, 0.5);
@@ -55,6 +56,7 @@ p,textarea{
 
 .sobre .sobre-blocos{
     background-color: rgb(69, 69, 69, 0.4);
+    width: 100%;
     padding: 100px 0;
 }
 
@@ -70,7 +72,7 @@ p,textarea{
 }
 
 .content .sobre-blocos h1 {
-    font-size: 24px;
+    font-size: 28px;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -80,7 +82,6 @@ p,textarea{
 }
 
 .content .Blocos {
-    transform: scale(1.15, 1.15);
     width: 100%;
     max-width: 22.2%;
     margin-left: 55px;
