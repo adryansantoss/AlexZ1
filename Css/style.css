@@ -239,4 +239,14 @@ p,textarea{
         padding: 0 0 50px 0;
         color: #323232;
     }
+    .menu .menu-left a {
+        font-size: 21px;
+    }
+    .menu .menu-right a {
+        font-size: 14.5px;
+    }
+    .sobre .sobre-mim-bloco .perfil{
+        width: 100%;
+        height: 550px;
+    }
 }
