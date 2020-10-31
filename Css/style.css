@@ -249,4 +249,10 @@ p,textarea{
         width: 100%;
         height: 550px;
     }
+    .contact-form{
+        width: 100%;
+    }
+    .contact-form input{
+        width: 100%;
+    }
 }
