@@ -240,14 +240,14 @@ p,textarea{
         color: #323232;
     }
     .menu .menu-left a {
-        font-size: 21px;
+        font-size: 18px;
     }
     .menu .menu-right a {
-        font-size: 14.5px;
+        font-size: 11px;
     }
     .sobre .sobre-mim-bloco .perfil{
-        width: 100%;
-        height: 550px;
+        width: calc(100% - 200px);
+        height: 350px;
     }
     .contact .contact-form input{
         width: 300px;
@@ -263,7 +263,9 @@ p,textarea{
         padding: 10px;
     }
     .contact .contact-form .contact-ns{
-        width: 115px;
+        width: 145px;
+        margin-right: 5px;
+        margin-left: 5px;
     }
 
 }
