@@ -215,6 +215,9 @@ p,textarea{
 }
 
 @media screen and (max-width: 768px) {
+    body{
+        width: 100%;
+    }
     .content .sobre-blocos {
         flex-direction: column;
         justify-content: center;
@@ -222,6 +225,7 @@ p,textarea{
     }
     .content .Blocos {
         width: 100%;
+        max-width: 350px;
         margin-left: 45px;
         margin-right: 45px;
     }
